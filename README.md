@@ -11,12 +11,7 @@ Sources for the talk "A Quantum Circuit Approach to Continuous Aircraft Stall Ri
 3. Komite Nasional Keselamatan Transportasi, *Aircraft accident investigation report: PT Sriwijaya Air, Boeing 737-500, PK-CLC*, KNKT.21.01.01.04, Jakarta, 2022. Flight SJY182, 9 January 2021. [Report](https://www.knkt.go.id/Repo/Files/Laporan/Penerbangan/2021/KNKT.21.01.01.04-Final-Report.pdf) · **In the talk**, Case B
 4. Junta Investigadora de Accidentes de Aviación Civil, *Informe final: Accidente del avión ATR 42-320, matrícula YV1010, operado por CONVIASA, 13 de septiembre de 2010*, expediente 036/2010, Venezuela, 2014. [Report, public mirror](https://www.baaa-acro.com/sites/default/files/2021-08/YV1010.pdf) · **In the talk**, Case C
 
-### Other accidents cited in the manuscript
-
-5. National Transportation Safety Board, *Crash during approach to landing, Pinnacle Airlines flight 3701, Bombardier CL-600-2B19, N8396A, Jefferson City, Missouri, October 14, 2004*, AAR-07/01, Washington, DC, 2007. [Report](https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0701.pdf)
-6. Aviation Safety Network, *ATI flight 392, Fokker F-27 Friendship 200, I-ATIP, accident summary*, 16 April 1972. Summary used because no public official report was located. [Summary](https://aviation-safety.net/wikibase/330538)
-
-## Academic references
+## References
 
 7. L. Westfall, "Causes and contributing factors in general aviation fixed-wing stall and spin accidents," undergraduate honors thesis, University of Arkansas, Fayetteville, 2025. [Link](https://scholarworks.uark.edu/meeguht/144/) · **In the talk**, slide 3
 8. AOPA Air Safety Institute, "Stall and spin accidents: Keep the wings flying," special report, Frederick, MD, 2017. [PDF](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/safety-and-proficiency/accident-analysis/special-reports/stall_spin.pdf) · **In the talk**, slide 3
