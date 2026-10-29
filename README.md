@@ -51,16 +51,3 @@ Sources for the talk "A Quantum Circuit Approach to Continuous Aircraft Stall Ri
 39. U.S. Code of Federal Regulations, Title 14, § 25.207, "Stall warning." Basis for the classical detector. [Text](https://www.law.cornell.edu/cfr/text/14/25.207) · **In the talk**, slide 8
 40. Federal Aviation Administration, *Special Airworthiness Information Bulletin CE-24-07: Stall warning system, angle of attack alerting systems*, December 26, 2024. [Bulletin](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID117071009620241226214236.0001)
 41. Laminar Research, X-Plane 11 flight simulator. Used to reconstruct all five scenarios. [Website](https://www.x-plane.com)
-
-## Image credits
-
-| Slide | Image | Source | License |
-| --- | --- | --- | --- |
-| 3, Motivation | Aerobatic aircraft in stall maneuver | TBD | TBD |
-| 4, AF447 | Route map, Rio de Janeiro to Paris | TBD | TBD |
-| 4, AF447 | Air France aircraft in flight | TBD | TBD |
-| 4, AF447 | Recovered tail section in the Atlantic | TBD | TBD |
-| 9, Five Scenarios | Beechcraft Premier 1A | TBD | TBD |
-| 9, Five Scenarios | Sriwijaya Air Boeing 737 | TBD | TBD |
-| 9, Five Scenarios | Conviasa ATR 42 | TBD | TBD |
-| 17, Conclusion | Richard Feynman portrait | TBD | TBD |
