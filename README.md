@@ -2,8 +2,6 @@
 
 Sources for the talk "A Quantum Circuit Approach to Continuous Aircraft Stall Risk Assessment" by Samuel A. Márquez González, Rutgers University–Camden, SACNAS NDiSTEM 2026.
 
-Entries marked **In the talk** are cited on a slide. The rest are cited in the DCSt manuscript and listed here for anyone who wants to read further.
-
 ## Accident reports
 
 ### Accidents discussed in the talk
